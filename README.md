@@ -66,8 +66,6 @@ telecom-customer-churn-analysis/
 └── images/
 └── dashboard.png
 ```
----
-
 <h2><a class="anchor" id="data-preparation"></a>Data Preparation</h2>
 
 Performed detailed cleaning and transformation before visualization:
@@ -136,15 +134,15 @@ This project helps decision-makers to:
    dashboard/Telecom_Churn_Dashboard.pbix
 ```
 2. **Explore interactive filters:**
-## Use filters for Churn, Gender, Contract Type, and Internet Service to analyze customer behavior.
+ Use filters for Churn, Gender, Contract Type, and Internet Service to analyze customer behavior.
 --- 
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+ 
+**Saurabh Shirole**  
+📧 Email: saurabhshirole1@gmail.com 
 
-**Saurabh Shirole**
-Computer Science Graduate
-📧 Email : saurabhshirole1@gmail.com
-🔗  [linkedIn] (https://www.linkedin.com/in/saurabh-shirole-19136a361/)
+🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-shirole-19136a361/) | [GitHub](https://github.com/saurabhks001)  
 
 
 
