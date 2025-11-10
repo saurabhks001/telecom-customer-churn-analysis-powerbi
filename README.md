@@ -53,18 +53,20 @@ The main goal of this project is to:
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
 ```
 telecom-customer-churn-analysis/
 │
 ├── README.md
 ├── Telecom_Customer_Churn_Analysis_Report.pdf
+|
 ├── Telecom_Customer_Churn_Analysis_Presentation.pptx
 │
 ├── dashboard/
-│ └── Telecom_Churn_Dashboard.pbix
+│   └── Telecom_Churn_Dashboard.pbix
 │
 └── images/
-└── dashboard.png
+    └── dashboard.png
 ```
 <h2><a class="anchor" id="data-preparation"></a>Data Preparation</h2>
 
