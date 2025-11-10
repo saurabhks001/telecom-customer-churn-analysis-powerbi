@@ -127,7 +127,7 @@ This project helps decision-makers to:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/saurabhks001/telecom-customer-churn-analysis.git
+   git clone https://github.com/saurabhks001/telecom-customer-churn-analysis-powerbi.git
 ```
 2. **Open the Power BI file:**
 ```bash
