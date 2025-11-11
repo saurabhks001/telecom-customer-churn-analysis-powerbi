@@ -144,7 +144,10 @@ This project helps decision-makers to:
 **Saurabh Shirole**  
 📧 Email: saurabhshirole1@gmail.com 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-shirole-19136a361/) | [GitHub](https://github.com/saurabhks001)  
+🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-shirole-19136a361/) | [GitHub](https://github.com/saurabhshirole1)  
+
+---
+⭐ *If you find this project helpful, don’t forget to star the repository!*
 
 
 
